@@ -3,7 +3,7 @@ Interactive 5-page Power BI dashboard analyzing 500+ global AI tools including p
 
 ## Dashboard Screenshots
 
-
+### 1️⃣ AI Tools Overview Dashboard ! [AI Tools Overview Dashboard](ai_tools_overview_dashboard.png)
 
 📊 Project Summary: Global AI Tools Analytics Dashboard
 
