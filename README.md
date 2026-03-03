@@ -3,7 +3,9 @@ Interactive 5-page Power BI dashboard analyzing 500+ global AI tools including p
 
 📌 Dashboard Pages Overview
 
-### 1️⃣ AI Tools Overview Dashboard ![AI Overview](ai_tools_overview_dashboard.png)
+### 1️⃣ AI Tools Overview Dashboard 
+
+![AI Overview](ai_tools_overview_dashboard.png)
 
 1️⃣ AI Tools Overview Dashboard
 
@@ -17,6 +19,21 @@ Top & Bottom Categories by Monthly Traffic
 
 Primary Category Distribution
 
+###2️⃣ Pricing & Market Strategy Dashboard
+
+![Pricing](pricing_dashboard.png)
+
+2️⃣ Pricing & Market Strategy Dashboard
+
+Average Price by Category
+
+Pricing Model Distribution
+
+Price Trend by Release Year
+
+Top Tools by Price & Rating
+
+Traffic vs Pricing Comparison
 
 📊 Project Summary : Global AI Tools Analytics Dashboard
 
@@ -37,20 +54,6 @@ Evaluate user ratings and agentic capability scores
 Identify top-performing and lowest-performing tools
 
 Monitor yearly growth and release trends
-
-📌 Dashboard Pages Overview
-
-1️⃣ AI Tools Overview Dashboard
-
-Total Tools, Traffic, Active Users
-
-Average User Rating
-
-Free vs Paid Tools %
-
-Top & Bottom Categories by Monthly Traffic
-
-Primary Category Distribution
 
 2️⃣ Pricing & Market Strategy Dashboard
 
